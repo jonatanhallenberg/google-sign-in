@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G++UmN5prYYPH059s6uJSboKIpm7TH+1GEAIeV0iwVGcH6TkbIlAXoZtoOvU39j74R1hVzSPi32oLKKdAn4Qfg==",
+  "success": true,
+  "projectFilePath": "/Users/jonatan/repos/google-sign-in/server/server.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonatan/.nuget/packages/google.apis/1.51.0/google.apis.1.51.0.nupkg.sha512",
+    "/Users/jonatan/.nuget/packages/google.apis.auth/1.51.0/google.apis.auth.1.51.0.nupkg.sha512",
+    "/Users/jonatan/.nuget/packages/google.apis.core/1.51.0/google.apis.core.1.51.0.nupkg.sha512",
+    "/Users/jonatan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
